@@ -33,3 +33,6 @@ nav ul li a{
     text-align: center;
     margin: 300px 395px 152px 150px;
 }
+.header{
+    background-image: url(../Assets/Hero-bg.png);
+}
